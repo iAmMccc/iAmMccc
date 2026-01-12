@@ -5,4 +5,3 @@
 - 📌: Focusing on Swift & iOS
 - 🛠️: Creator of applications and frameworks
 - 💬: QQ群（865036731）
-- 👀: [掘金博客](https://juejin.cn/user/1195919486232615)
